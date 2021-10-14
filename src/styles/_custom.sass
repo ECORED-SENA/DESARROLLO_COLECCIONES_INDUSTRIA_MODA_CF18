@@ -1,0 +1,184 @@
+.banner-principal__img
+  animation-name: spin
+  animation-duration: 3.0s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate
+
+@keyframes spin
+  0%
+    transform: translatex(0px) 
+  50%
+    transform: translatex(-5px)
+  100%
+    transform: translatex(0px)   
+
+.banner-principal__img
+  padding: 0px !important
+.ps-sm-5
+  padding-left: 6rem !important
+@media only screen and (max-width: 992px)
+  .ps-sm-5
+    padding-left: 2rem !important
+
+.img-a 
+  display: block
+  margin: auto
+
+.img-t
+  width: auto
+  height: auto    
+
+.BorTit
+  border-left: 5px solid #529AD9
+  padding: 6px 0px 6px 10px     
+  
+.yoyo1 
+  animation: yoyo1 3.0s
+  animation-iteration-count: infinite
+
+@keyframes yoyo1 
+  0%  
+    transform: translatey(0px)
+  50%  
+    transform: translatey(-3px)
+  100%  
+    transform: translatey(0px) 
+
+.yoyo 
+  animation: yoyo 3.0s
+  animation-iteration-count: infinite
+
+@keyframes yoyo 
+  0%  
+    transform: translatex(0px)
+  50%  
+    transform: translatex(-6px)
+  100%  
+    transform: translatex(0px)     
+
+.list 
+  width: 100%
+  display: flex !important
+  &__item 
+    &__bulletNumber 
+      position: relative
+      width: 30px
+      height: 30px
+      margin-right: 1rem
+      text-align: center
+      border-radius: 50%
+      background-color: #F98473
+      span 
+        color: white
+        font-weight: 700
+        position: absolute
+        top: 50%
+        left: 50%
+        transform: translate(-50%, -50%)
+      
+    
+    &__number 
+      position: relative
+      margin-right: 0.5rem
+      span 
+        color:#BF3976
+        font-size: 13pt
+        font-weight: 700
+        line-height: 1.2
+      
+    
+    &__icon 
+      position: relative
+      width: 20px
+      margin-right: 0.65rem
+      margin-top: 4px
+      img 
+        width: 20px
+        vertical-align: middle
+        
+  &__txt 
+    p:first-child,
+    h4:first-child 
+      margin-top: -7px  
+      margin-left: 1rem
+
+.m-w
+  width: 290% !important
+  max-width: 290% !important
+@media only screen and (max-width: 992px)
+  .m-w
+    width: 590% !important
+    max-width: 590% !important
+.p-l
+  margin-left: 1.6rem !important    
+
+.cajon.color-primario
+  background-color: #F2D6E3 !important      
+
+.col-color-1
+  background-color: #F2D6E34D
+
+.col-color-2
+  background-color: #BF3976
+
+.m-row-top
+  margin-top: -10rem
+  padding: 7rem !important    
+
+.m-row-top-1
+  margin-top: -7rem
+  padding: 4rem !important
+
+.m-row-top-2
+  margin-top: -5rem
+  padding: 3rem !important
+
+.m-row-top-3
+  margin-top: -30rem
+  padding: 10rem !important
+
+.row-m-l
+  margin-left: 1px    
+  
+.col-sup
+  z-index: 1  
+
+.tex-blue 
+  color: #0AC4BF
+
+.text-black
+  color: #12263F !important    
+
+.row-color-t1-1
+  background-color: #BF3976
+  border: 10px solid white
+
+
+.row-color-t1-2
+  background-color: #0AC4BF
+  border: 10px solid white    
+
+.text-white
+  color: white !important  
+
+.card-bg
+  background-color: transparent !important  
+
+.slyder-a__btn--sigt
+  background-color: #0AC4BF !important
+  border-radius: 0% !important
+.slyder-a__btn--atrs
+  background-color: #0AC4BF !important
+  border-radius: 0% !important
+.slyder-a__bullets
+  bottom: -40px !important
+.slyder-a__bullets__item--active
+  background-color: #0AC4BF !important
+  border-color: #0AC4BF !important
+.slyder-a__bullets__item
+  border: 1px solid #B7CEE4 !important           
+
+.bloque-texto-b i
+  color: #BF3976 !important
+.bloque-texto-b.color-secundario::before
+  background-color: #7CC4FF34  !important     
