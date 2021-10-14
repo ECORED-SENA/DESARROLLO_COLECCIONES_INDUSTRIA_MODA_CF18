@@ -148,7 +148,7 @@
 
     separador
     #t_2_3.titulo-segundo(data-aos="fade-right")
-      h2 2.3 Moodboard del concepto de la colección
+      h2 2.3 <i>Moodboard</i> del concepto de la colección
 
     img(data-aos="zoom-in-left").img-t.img-a(src='@/assets/ilustraciones/img16.jpg', alt='') 
 

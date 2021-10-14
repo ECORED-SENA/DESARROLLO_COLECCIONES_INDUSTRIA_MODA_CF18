@@ -41,7 +41,7 @@
 
     separador
     #t_1_2.titulo-segundo(data-aos="fade-right")
-      h2 1.2 Identificación del target o segmento  
+      h2 1.2 Identificación del <i>target</i> o segmento de los mercados nuevos, tradicionales o emergentes
 
     .row.justify-content-center.align-items-center
       .col-lg-7
