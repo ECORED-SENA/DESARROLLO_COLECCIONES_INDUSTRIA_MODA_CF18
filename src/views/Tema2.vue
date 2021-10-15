@@ -102,7 +102,21 @@
 
     .cajon.color-primario.p-5.mt-4(data-aos="flip-down")
       p.mb-0 El desarrollador de colecciones para el sector moda participa y apoya el proceso de investigación del concepto y requiere tener muy clara la idea de marca y el target del mercado al que está dirigido el producto, como también conocer los términos, actividades y su aplicación en el proceso de desarrollo de la colección.         
-
+    .row.justify-content-center.align-items-center.mt-5
+      .col-lg-10
+        h4.tex-blue(data-aos="fade-right") Descargar el siguiente material para complementar tus conocimientos
+        .tarjeta.color-primario.p-3.my-5(data-aos="fade-left")
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/ilustraciones/img8.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h5.mb-0 Coceptos de Moda que debes saber
+                .col-sm-auto
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/U2_Anexo_B_11_Conceptos de moda.pdf')" target="_blank")
+                    span.text-black Descargar
+                    i.text-black.fas.fa-file-download
     separador
     #t_2_2.titulo-segundo(data-aos="fade-right")
       h2 2.2 Concepto de la colección
@@ -264,7 +278,7 @@
                 .col.mb-3.mb-sm-0
                   h5.mb-0 Trabajo de Marca SERES Aprendiz SENA, Mariana Pulgarín
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/U1_Anexo_H_El_Concept_Book_Xavi_Montava_AITEX.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/U2_Anexo_F_Trabajo_de_Marca_SERES.pdf')" target="_blank")
                     span.text-black Descargar
                     i.text-black.fas.fa-file-download
 
@@ -277,7 +291,7 @@
                 .col.mb-3.mb-sm-0
                   h5.mb-0 Trabajo de Marca VICI Aprendiz SENA, Natalia Mesa
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/U1_Anexo_I_Idea_de_marca_YELLOW.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/U2_Anexo_G_Trabajo_de_Marca_VICI.ppsx')" target="_blank")
                     span.text-black Descargar
                     i.text-black.fas.fa-file-download
 
@@ -290,7 +304,7 @@
                 .col.mb-3.mb-sm-0
                   h5.mb-0 Trabajo de Marca Malebolo Aprendiz SENA, Michael Ballestas 
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/U1_Anexo_J_Presentacion_de_marca_DANIEL_ECHEVERRY.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/U2_Anexo_H_Trabajo_de_Marca_Malebolo.pdf')" target="_blank")
                     span.text-black Descargar
                     i.text-black.fas.fa-file-download     
 
@@ -303,7 +317,7 @@
                 .col.mb-3.mb-sm-0
                   h5.mb-0 Trabajo de Marca Slowly 1 y 2 Aprendiz SENA, Maicol Stiven Zapata
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/U1_Anexo_J_Presentacion_de_marca_DANIEL_ECHEVERRY.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_I_U2_Slowly_1_y_2.pdf')" target="_blank")
                     span.text-black Descargar
                     i.text-black.fas.fa-file-download   
 
@@ -316,7 +330,7 @@
                 .col.mb-3.mb-sm-0
                   h5.mb-0 Trabajo y Video de Marca Mandragora Aprendiz SENA, Natalia Osorio
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/U1_Anexo_J_Presentacion_de_marca_DANIEL_ECHEVERRY.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_J_U2_Trabajo_de_Marca_Mandragora.pdf')" target="_blank")
                     span.text-black Descargar
                     i.text-black.fas.fa-file-download                                                                
 </template>
