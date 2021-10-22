@@ -15,7 +15,7 @@
         .cajon.color-primario.p-5.mb-4
           p.mb-0 Las marcas tienen una columna vertebral de productos que conectan y generan recordación con el usuario, son llamados 
             span(style='background-color:#0AC4BF') productos de línea
-            span(style='background-color:#F2D6E3') ; se identifican, en el caso de la moda, por el tipo de materiales, silueta y respuesta a los nuevos conceptos de la industria del vestuario, y, como son los que representan, dan personalidad y reconocimiento a la marca, requieren actualización y cuidado especial a través de la estrategia que vincula producto, marketing y usuario.
+            span(style='background-color:#F2D6E3') ; se identifican, en el caso de la moda, por el tipo de materiales, silueta y respuesta a los nuevos conceptos de la industria del vestuario, y, como son los que representan, dan personalidad y reconocimiento a la marca, requieren actualización y cuidado especial a través de la estrategia que vincula producto, #[b marketing] y usuario.
 
     img(data-aos="flip-down").img-t.img-a.mt-5(src='@/assets/ilustraciones/img3.svg', alt='') 
 
@@ -58,7 +58,7 @@
           span(style='background-color: transparent')  entre el producto ofrecido y sus características intrínsecas adoptadas desde su entorno, que sirven de referente para el desarrollo de una buena idea; tienen que estar claramente definidos los valores, conceptos y experiencias que el usuario tiene con los productos elegidos; en este momento, el usuario pasa de ser un ente pasivo a prácticamente convertirse en el alma de las marcas, ya que él es quien toma las decisiones finales y aprueba todo lo que puede pasar con ellas, la colección, las prendas o la forma de promocionarlas. 
     .row.justify-content-end.align-items-center
       .col-lg-6.col-color-1.m-row-top(data-aos="slide-left")
-
+    p(data-aos="fade-down").mt-5 En algún momento, las marcas tienen que mantener productos de línea que se convierten en referentes para sus usuarios, obviamente sin olvidar la transformación y evolución de los individuos en la sociedad, los cuales constantemente están cambiando, renovando e incluso estableciendo nuevos mercados emergentes enlazados a los sucesos o momentos históricos.
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-4(data-aos="slide-right")
         img.yoyo1.img-t.img-a.my-3(src='@/assets/ilustraciones/img7.jpg', alt='')        
@@ -69,7 +69,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10
-        h4.tex-blue(data-aos="fade-right") Descargar el siguiente material para complementar tus conocimientos 
+        h4.tex-blue(data-aos="fade-right") Para complementar sus conocimientos, lo invitamos a descargar el siguiente material:    
         .tarjeta.color-primario.p-3.my-5(data-aos="fade-left")
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
@@ -78,7 +78,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h5.mb-1 Introducción al Branding
-                  p.text-small Una marca es la suma de los beneficios tangibles e intangibles proporcionados por un producto o servicio y abarca la totalidad de la experiencia del consumidor
+                  p.text-small "Una marca es la suma de los beneficios tangibles e intangibles proporcionados por un producto o servicio y abarca la totalidad de la experiencia del consumidor"
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/U1_Anexo_C_Introduccion_al_branding.pdf')" target="_blank")
                     span.text-black Descargar
@@ -160,10 +160,10 @@
     .row.justify-content-center.align-items-center.mt-2
       .col-lg-4(data-aos="fade-right").row-color-t1-1.p-5.my-3
         h4.text-white Análisis interno: 
-        p.text-white antecedentes, expectativas y producto/marca. 
+        p.text-white Antecedentes, expectativas y producto/marca. 
       .col-lg-4(data-aos="fade-left").row-color-t1-2.p-5.my-3
         h4 Análisis externo: 
-        p en torno al producto, la marca, el consumidor y la competencia.
+        p En torno al producto, la marca, el consumidor y la competencia.
 
     p(data-aos="fade-down").mt-5 Es importante ilustrar de una manera clara qué se quiere vender, a quién, y cómo se pretende llegar al usuario. Todo esto, dando respuesta a la pregunta ¿
       span(style='background-color:#F2D6E3') qué está dispuesta la empresa a hacer para lograrlo
@@ -180,7 +180,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10
-        h4.tex-blue(data-aos="fade-right") Descargar el siguiente material para complementar tus conocimientos
+        h4.tex-blue(data-aos="fade-right") Para complementar sus conocimientos, lo invitamos a descargar el siguiente material: 
         .tarjeta.color-primario.p-3.my-5(data-aos="fade-left")
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1

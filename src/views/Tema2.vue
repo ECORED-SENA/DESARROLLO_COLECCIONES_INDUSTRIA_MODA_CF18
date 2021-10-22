@@ -104,7 +104,7 @@
       p.mb-0 El desarrollador de colecciones para el sector moda participa y apoya el proceso de investigación del concepto y requiere tener muy clara la idea de marca y el target del mercado al que está dirigido el producto, como también conocer los términos, actividades y su aplicación en el proceso de desarrollo de la colección.         
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10
-        h4.tex-blue(data-aos="fade-right") Descargar el siguiente material para complementar tus conocimientos
+        h4.tex-blue(data-aos="fade-right") Para complementar sus conocimientos, lo invitamos a descargar el siguiente material: 
         .tarjeta.color-primario.p-3.my-5(data-aos="fade-left")
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
@@ -116,7 +116,20 @@
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/U2_Anexo_B_11_Conceptos de moda.pdf')" target="_blank")
                     span.text-black Descargar
+
                     i.text-black.fas.fa-file-download
+        .tarjeta.color-primario.p-3.my-5(data-aos="fade-left")
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/ilustraciones/img8.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h5.mb-0 Coceptos Fashion que debes saber
+                .col-sm-auto
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/U2_Anexo_ A_26_Conceptos_Fashion.pptx')" target="_blank")
+                    span.text-black Descargar
+                    i.text-black.fas.fa-file-download                    
     separador
     #t_2_2.titulo-segundo(data-aos="fade-right")
       h2 2.2 Concepto de la colección
@@ -231,9 +244,9 @@
         .bloque-texto-b.color-secundario.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h4.mb-2 Como diseñador de moda, era consciente de no ser un artista, porque estaba creando algo que se hacía para ser comercializado, vendido, usado y finalmente desechado<br>
+            h4.mb-2 Como diseñador de moda, era consciente de no ser un artista, porque estaba creando algo que se hacía para ser comercializado, vendido, usado y finalmente desechado
+            i.fas.fa-quote-right <br>
             p Tom Ford (Seivewright, 2013, p. 80).
-            i.fas.fa-quote-right
       .col-lg-3 
         img(data-aos="zoom-in-left").img-t(src='@/assets/ilustraciones/img21.jpg', alt='')                                    
     .row.justify-content-end.align-items-center.mt-5
@@ -268,7 +281,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10
-        h4.tex-blue(data-aos="fade-right") Descargar el siguiente material para complementar tus conocimientos
+        h4.tex-blue(data-aos="fade-right") Para complementar sus conocimientos, lo invitamos a descargar el siguiente material: 
         .tarjeta.color-primario.p-3.my-5(data-aos="fade-left")
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
@@ -276,7 +289,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h5.mb-0 Trabajo de Marca SERES Aprendiz SENA, Mariana Pulgarín
+                  h5.mb-0 Trabajo de Marca SERES. Aprendiz SENA, Mariana Pulgarín
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/U2_Anexo_F_Trabajo_de_Marca_SERES.pdf')" target="_blank")
                     span.text-black Descargar
@@ -289,7 +302,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h5.mb-0 Trabajo de Marca VICI Aprendiz SENA, Natalia Mesa
+                  h5.mb-0 Trabajo de Marca VICI. Aprendiz SENA, Natalia Mesa
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/U2_Anexo_G_Trabajo_de_Marca_VICI.ppsx')" target="_blank")
                     span.text-black Descargar
@@ -302,7 +315,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h5.mb-0 Trabajo de Marca Malebolo Aprendiz SENA, Michael Ballestas 
+                  h5.mb-0 Trabajo de Marca Malebolo. Aprendiz SENA, Michael Ballestas 
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/U2_Anexo_H_Trabajo_de_Marca_Malebolo.pdf')" target="_blank")
                     span.text-black Descargar
@@ -315,7 +328,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h5.mb-0 Trabajo de Marca Slowly 1 y 2 Aprendiz SENA, Maicol Stiven Zapata
+                  h5.mb-0 Trabajo de Marca Slowly 1 y 2. Aprendiz SENA, Maicol Stiven Zapata
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_I_U2_Slowly_1_y_2.pdf')" target="_blank")
                     span.text-black Descargar
@@ -328,7 +341,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h5.mb-0 Trabajo y Video de Marca Mandragora Aprendiz SENA, Natalia Osorio
+                  h5.mb-0 Trabajo y Video de Marca Mandragora. Aprendiz SENA, Natalia Osorio
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_J_U2_Trabajo_de_Marca_Mandragora.pdf')" target="_blank")
                     span.text-black Descargar

@@ -291,6 +291,11 @@ export default {
     {
       termino: 'Consumidor',
       significado:
+        'Es una persona u organización que consume bienes o servicios, los mismos que le sirven para satisfacer algún tipo de necesidad.',
+    },
+    {
+      termino: 'Contexto',
+      significado:
         'Es un marco, un ambiente, un entorno físico o simbólico, un conjunto de fenómenos, situaciones y circunstancias (como el tiempo y el lugar), no comparables a otras, que rodean o condicionan un hecho.',
     },
     {
@@ -331,7 +336,7 @@ export default {
     {
       termino: 'Lafayette',
       significado:
-        'Lafayette es una empresa textil colombiana, verticalmente integrada, que cuenta con más de 2000 empleados y una planta de más de 80 mil metros cuadrados de área construida. El informe de tendencias de Lafayette es el resultado de una cuidadosa investigación de comportamientos del consumidor y sus múltiples configuraciones mentales, proyectados hacia el futuro y aterrizados en el mercado textil. Su contenido se construye a partir de un robusto ecosistema de investigación, al cual pertenecen las fuentes de análisis de tendencias más relevantes y con mayor experticia del sector, paralelamente a un continuo análisis de datos sobre producto y consumidor, además de un monitoreo constante de tendencias digitales.',
+        'es una empresa textil colombiana, verticalmente integrada, que cuenta con más de 2000 empleados y una planta de más de 80 mil metros cuadrados de área construida. El informe de tendencias de Lafayette es el resultado de una cuidadosa investigación de comportamientos del consumidor y sus múltiples configuraciones mentales, proyectados hacia el futuro y aterrizados en el mercado textil. Su contenido se construye a partir de un robusto ecosistema de investigación, al cual pertenecen las fuentes de análisis de tendencias más relevantes y con mayor experticia del sector, paralelamente a un continuo análisis de datos sobre producto y consumidor, además de un monitoreo constante de tendencias digitales.',
     },
     {
       termino: 'Marca',
@@ -400,7 +405,7 @@ export default {
   complementario: [
     {
       texto:
-        'Bellvís, M. (2012). Las estrategias de Visual Merchandising en la distribución del fashion retail : manual operativo del desarrollo e implantación para un producto moda textil predeterminado. Universidad CEU Cardenal Herrera.',
+        'Bellvís, M. (2012). Las estrategias de <i>Visual Merchandising</i> en la distribución del <i>fashion retail</i> : manual operativo del desarrollo e implantación para un producto moda textil predeterminado. Universidad CEU Cardenal Herrera.',
       tipo: 'Trabajo fin de Máster',
       descarga: '/downloads/U1_Anexo_K_TFM_BellvisVazquez_Maria_Parte2.pdf',
     },
@@ -492,7 +497,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Jhana Johanna Bustillo Ardila',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
