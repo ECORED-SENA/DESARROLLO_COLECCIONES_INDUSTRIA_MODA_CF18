@@ -15,7 +15,7 @@
         .cajon.color-primario.p-5.mb-4
           p.mb-0 Las marcas tienen una columna vertebral de productos que conectan y generan recordación con el usuario, son llamados 
             span(style='background-color:#0AC4BF') productos de línea
-            span(style='background-color:#F2D6E3') ; se identifican, en el caso de la moda, por el tipo de materiales, silueta y respuesta a los nuevos conceptos de la industria del vestuario, y, como son los que representan, dan personalidad y reconocimiento a la marca, requieren actualización y cuidado especial a través de la estrategia que vincula producto, #[b marketing] y usuario.
+            span(style='background-color:#F2D6E3') ; se identifican, en el caso de la moda, por el tipo de materiales, silueta y respuesta a los nuevos conceptos de la industria del vestuario, y, como son los que representan, dan personalidad y reconocimiento a la marca, requieren actualización y cuidado especial a través de la estrategia que vincula producto, #[i marketing] y usuario.
 
     img(data-aos="flip-down").img-t.img-a.mt-5(src='@/assets/ilustraciones/img3.svg', alt='') 
 
