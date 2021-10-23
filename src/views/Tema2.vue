@@ -42,7 +42,7 @@
             .list__item____icon(data-aos="zoom-in")
               img.m-w(data-aos="zoom-in-left")(src='@/assets/ilustraciones/v1.svg')
           .list__txt
-            p(data-aos="fade-down").p-l.text-white.mb-0 Informes de pronóstico de tendencias emitidos por investigadores de instituciones del fenómeno moda proyectados hacia el futuro, como Inexmoda, Fashion Snoops, WGSN, AITEX y Lafayette, entre otros.
+            p(data-aos="fade-down").p-l.text-white.mb-0 Informes de pronóstico de tendencias emitidos por investigadores de instituciones del fenómeno moda proyectados hacia el futuro, como Inexmoda, <i>Fashion Snoops</i>, WGSN, AITEX y Lafayette, entre otros.
         .list.mt-3
           .list__item
             .list__item____icon(data-aos="zoom-in") 
@@ -101,7 +101,7 @@
         img(data-aos="zoom-in-left").img-t.img-a.my-3(src='@/assets/ilustraciones/img14.jpg', alt='') 
 
     .cajon.color-primario.p-5.mt-4(data-aos="flip-down")
-      p.mb-0 El desarrollador de colecciones para el sector moda participa y apoya el proceso de investigación del concepto y requiere tener muy clara la idea de marca y el target del mercado al que está dirigido el producto, como también conocer los términos, actividades y su aplicación en el proceso de desarrollo de la colección.         
+      p.mb-0 El desarrollador de colecciones para el sector moda participa y apoya el proceso de investigación del concepto y requiere tener muy clara la idea de marca y el <i>target</i> del mercado al que está dirigido el producto, como también conocer los términos, actividades y su aplicación en el proceso de desarrollo de la colección.         
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10
         h4.tex-blue(data-aos="fade-right") Para complementar sus conocimientos, lo invitamos a descargar el siguiente material: 
@@ -112,7 +112,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h5.mb-0 Coceptos de Moda que debes saber
+                  h5.mb-0 Conceptos de Moda que debes saber
+                  p.text-small Por Luis Alfonso Hincapié Echeverry. 2019.
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/U2_Anexo_B_11_Conceptos de moda.pdf')" target="_blank")
                     span.text-black Descargar
@@ -125,9 +126,10 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h5.mb-0 Coceptos Fashion que debes saber
+                  h5.mb-0 Conceptos Fashion que te ayudarán a entender de moda
+                  p.text-small Recopilación de Luis Alfonso Hincapié Echeverry. 2019.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/U2_Anexo_ A_26_Conceptos_Fashion.pptx')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/U2_Anexo_ A_26_Conceptos_Fashion.pdf')" target="_blank")
                     span.text-black Descargar
                     i.text-black.fas.fa-file-download                    
     separador
@@ -194,7 +196,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-4
-        h4.text-center(data-aos="fade-right") Album Bocetos de coleccion
+        h4.text-center(data-aos="fade-right") Álbum Bocetos de colección
 
     .tarjeta.tarjeta--azul.card-bg.p-4.mt-5.d-none.d-lg-block  
       SlyderA
@@ -298,7 +300,7 @@
         .tarjeta.color-primario.p-3.mb-5(data-aos="fade-right")
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/ilustraciones/img8.svg")
+              img(src="@/assets/ilustraciones/PPT.svg")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -315,7 +317,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h5.mb-0 Trabajo de Marca Malebolo. Aprendiz SENA, Michael Ballestas 
+                  h5.mb-0 Trabajo de Marca Malébolo. Aprendiz SENA, Michael Ballestas 
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/U2_Anexo_H_Trabajo_de_Marca_Malebolo.pdf')" target="_blank")
                     span.text-black Descargar
@@ -341,7 +343,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h5.mb-0 Trabajo y Video de Marca Mandragora. Aprendiz SENA, Natalia Osorio
+                  h5.mb-0 Trabajo y Video de Marca Mandrágora. Aprendiz SENA, Natalia Osorio
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_J_U2_Trabajo_de_Marca_Mandragora.pdf')" target="_blank")
                     span.text-black Descargar

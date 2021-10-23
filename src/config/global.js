@@ -128,15 +128,7 @@ export default {
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
         'Ballestas, M. (s. f.). Malébolo [manuscrito no publicado]. SENA.',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
     },
     {
       referencia:
@@ -166,7 +158,7 @@ export default {
     },
     {
       referencia:
-        'Echeverry, D. (s. f.). DANIEL ECHVRRY [manuscrito no publicado]. SENA.',
+        'Echeverry, D. (s. f.). DANIEL ECHEVERRY [manuscrito no publicado]. SENA.',
     },
     {
       referencia:
@@ -315,6 +307,7 @@ export default {
     },
     {
       termino: 'Fashion Snoops',
+      terminoHtml: '<em>Fashion Snoops</em>',
       significado:
         'Innovadora agencia de consultoría con sede en Nueva York. Lleva más de diecisiete años inspirando y creando confianza en sus clientes a través de su plataforma virtual, para que se conozcan anticipadamente las tendencias de moda, belleza, decoración y hogar que estarán presentes en el mercado, desarrollando así productos coherentes con lo que exige el consumidor.',
     },
@@ -405,7 +398,7 @@ export default {
   complementario: [
     {
       texto:
-        'Bellvís, M. (2012). Las estrategias de <i>Visual Merchandising</i> en la distribución del <i>fashion retail</i> : manual operativo del desarrollo e implantación para un producto moda textil predeterminado. Universidad CEU Cardenal Herrera.',
+        'Bellvís, M. (2012). Las estrategias de <i>Visual Merchandising</i> en la distribución del <i>fashion retail</i>: manual operativo del desarrollo e implantación para un producto moda textil predeterminado. Universidad CEU Cardenal Herrera.',
       tipo: 'Trabajo fin de Máster',
       descarga: '/downloads/U1_Anexo_K_TFM_BellvisVazquez_Maria_Parte2.pdf',
     },

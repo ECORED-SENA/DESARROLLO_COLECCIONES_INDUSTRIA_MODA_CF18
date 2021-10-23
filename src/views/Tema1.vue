@@ -47,7 +47,7 @@
       .col-lg-7
         img(data-aos="zoom-in-left").img-t.img-a.my-3(src='@/assets/ilustraciones/img6.jpg', alt='')        
       .col-lg-5
-        p(data-aos="fade-down") Una marca de moda debe realizar un buen proceso de investigación respecto al target o segmento del mercado al cual se dirige el producto a desarrollar. En este sentido, es indispensable el conocimiento y la claridad con la que se refiere a su usuario. Uno de los aspectos primordiales para garantizar el éxito es 
+        p(data-aos="fade-down") Una marca de moda debe realizar un buen proceso de investigación respecto al <i>target</i> o segmento del mercado al cual se dirige el producto a desarrollar. En este sentido, es indispensable el conocimiento y la claridad con la que se refiere a su usuario. Uno de los aspectos primordiales para garantizar el éxito es 
           span(style='background-color:#F2D6E3') la sensibilidad
           span(style='background-color: transparent')  que logre reflejar la marca con respecto a las cualidades que encierra, no solamente el usuario con su comportamiento, gustos y preferencias, sino también el conocimiento respecto al entorno que complementa las características del producto o servicio.  
     
@@ -188,8 +188,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h5.mb-1 El Concept Book Xavi Montava AITEX
-                  p.text-small Creación del concept book de una marca determinada.
+                  h5.mb-1 El <i>Concept Book</i>. La Marca. 
+                  p.text-small Creación del <i>concept book</i> de una marca determinada. Xavi Montava AITEX.
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/U1_Anexo_H_El_Concept_Book_Xavi_Montava_AITEX.pdf')" target="_blank")
                     span.text-black Descargar
@@ -202,8 +202,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h5.mb-1 Idea de marca YELLOW
-                  p.text-small 
+                  h5.mb-1 <i>YELLOW</i>. Una nueva actitud.
+                  p.text-small Idea de marca. Gloria Gutiérrez P.  
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/U1_Anexo_I_Idea_de_marca_YELLOW.pdf')" target="_blank")
                     span.text-black Descargar
@@ -216,8 +216,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h5.mb-1 Presentacion de marca DANIEL ECHEVERRY
-                  p.text-small 
+                  h5.mb-1 DANIEL ECHEVERRY <i>Mens-Wear</i>
+                  p.text-small Presentación de marca. DANIEL ECHEVERRY 
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/U1_Anexo_J_Presentacion_de_marca_DANIEL_ECHEVERRY.pdf')" target="_blank")
                     span.text-black Descargar
