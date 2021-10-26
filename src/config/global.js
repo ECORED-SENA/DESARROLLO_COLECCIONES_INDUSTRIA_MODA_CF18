@@ -142,7 +142,7 @@ export default {
     },
     {
       referencia:
-        'Bellvís, M. (2012). Las estrategias de Visual Merchandising en la distribución del fashion retail : manual operativo del desarrollo e implantación para un producto moda textil predeterminado. Universidad CEU Cardenal Herrera. ',
+        'Bellvís, M. (2012). Las estrategias de Visual Merchandising en la distribución del fashion retail: manual operativo del desarrollo e implantación para un producto moda textil predeterminado. Universidad CEU Cardenal Herrera. ',
       link: 'http://hdl.handle.net/10637/4139',
     },
     {
